@@ -6,3 +6,5 @@ In Alien Invasion, the player controls a ship that appears at the bottom center 
 Python 3.x
 pygame 
 In my opinion, this game is one easy-to-build game for those who are new to Python, the instruction in the book is really impressive, illustrative and easy to understand and practice.
+3. Run:
+python3 alien_invasion.py
